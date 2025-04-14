@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Essam</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Excel | Transforming Data into Insights</h3>
 
+- 🌱 I’m currently learning **Machin learning & big data technologies (Hadoop, Spark)& Cloud Computing (AWS, Azure))**
+
+- 📫 How to reach me **aesam5351@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/11N30PTg4q-g15wV1HWpeXV-I6oY3d8Ib/view?usp=drive_link](https://drive.google.com/file/d/11N30PTg4q-g15wV1HWpeXV-I6oY3d8Ib/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/a7med3ssam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/a7med3ssam" height="30" width="40" /></a>
