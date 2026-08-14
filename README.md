@@ -1,16 +1,127 @@
-<h1 align="center">Hi 👋, I'm Ahmed Essam</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel | Transforming Data into Insights</h3>
+# Ahmed — Data Analyst | BI Developer
 
-- 🌱 I’m currently learning **Machin learning & big data technologies (Hadoop, Spark)& Cloud Computing (AWS, Azure))**
+Data Analyst specializing in **Retail Analytics, Business Intelligence, SQL Server, Power BI, and Python**.
 
-- 📫 How to reach me **aesam5351@gmail.com**
+I build analytics solutions that transform large-scale sales and inventory data into actionable insights for business decision-making.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11N30PTg4q-g15wV1HWpeXV-I6oY3d8Ib/view?usp=drive_link](https://drive.google.com/file/d/11N30PTg4q-g15wV1HWpeXV-I6oY3d8Ib/view?usp=drive_link)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/a7med3ssam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/a7med3ssam" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I specialize in retail analytics and business intelligence, working with sales and inventory data to create solutions that support strategic decision-making. My experience spans exploratory data analysis, KPI design, dashboard development, and building data pipelines that enable organizations to understand performance across multiple business dimensions.
+
+---
+
+## Core Skills
+
+### Data Analytics & Business Intelligence
+Data Analysis · Business Analysis · Exploratory Data Analysis · KPI Design · Retail Analytics · Sales Analysis · Inventory Analysis · Business Intelligence · Decision Support Systems
+
+### BI & Visualization
+Power BI · DAX · Power Query · Dashboard Design · Data Modeling
+
+### Databases & SQL
+Microsoft SQL Server · SQL · Views · Stored Procedures · Query Optimization · Data Modeling
+
+### Python & Data Engineering
+Python · Pandas · NumPy · SQLAlchemy · Data Cleaning · ETL · Automation · Forecasting
+
+### Analytics Engineering
+ETL Pipelines · Data Transformation · Star Schema · Fact & Dimension Tables · Data Quality · Data Validation
+
+---
+
+## Business Scale
+
+**Analytics experience across:**
+- 41+ retail branches
+- 40,000+ SKUs
+- Large-scale transactional datasets
+- 19+ Power BI dashboards
+
+---
+
+## Featured Projects
+
+### Retail Analytics Platform
+
+**Description:** End-to-end retail analytics solution designed to analyze sales, inventory, product performance, and branch-level KPIs.
+
+**Technologies:** `SQL Server · Python · Pandas · Power BI · DAX`
+
+**Capabilities:**
+- Sales Performance
+- Inventory Health
+- Branch Performance
+- SKU Analysis
+- Slow Moving Products
+- Fast Moving Products
+- Zero-Sales Detection
+
+**Repository:** Coming soon.
+
+---
+
+### Retail Demand Forecasting
+
+**Description:** Python-based forecasting project for estimating future seasonal demand using historical sales and stock availability.
+
+**Technologies:** `Python · Pandas · SQL Server · SQLAlchemy`
+
+**Forecast Methodology considers:**
+- Historical Sales
+- Stock Availability
+- Stock-out Periods
+- Product Category
+- Gender
+- Age Category
+- Size Availability
+- Color Availability
+- Seasonality
+
+**Status:** Currently under development.
+
+---
+
+### Power BI Retail Intelligence
+
+**Description:** Business intelligence dashboards designed for multi-branch retail performance monitoring and decision support.
+
+**Technologies:** `Power BI · DAX · Power Query · SQL Server`
+
+**Experience across:**
+- 41+ Branches
+- 40,000+ SKUs
+- 19+ Power BI Dashboards
+
+---
+
+## Current Focus
+
+🎯 **Advanced Retail Analytics** — Multi-dimensional retail performance analysis  
+🔮 **Demand Forecasting** — Seasonal and SKU-level demand estimation  
+📦 **Inventory Optimization** — Stock health and replenishment analytics  
+🐍 **Python Analytics Pipelines** — ETL, automation and data processing  
+🏪 **Retail Decision Systems** — Analytics-driven decision support  
+🚀 **SaaS Analytics Platforms** — Building scalable retail analytics products  
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+---
+
+## Connect
+
+📧 **Email:** aesam5351@gmail.com  
+💼 **LinkedIn:** [Ahmed Essam](https://linkedin.com/in/a7med3ssam)  
+🔗 **GitHub:** [AIEngineer15](https://github.com/AIEngineer15)
